@@ -355,7 +355,7 @@ where LAT_N is the northern latitude and LONG_W is the western longitude.
 
 **Solution**
 ```sql
-SELECT DISTINCT CITY FROM STATION WHERE CITY RLIKE '[^aeiouAEIOU]$';  
+SELECT DISTINCT CITY FROM STATION WHERE CITY RLIKE '[^aeiouAEIOU]$'
 ```
 
 ###**[Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem)**
