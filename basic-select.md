@@ -186,7 +186,7 @@ In other words, query the number of non-unique CITY names in STATION by subtract
 
 Input Format
 
-The STATION table is described as follows:
+The STATION table is described as follows::
 
 |  Field | Type |
 |---|---|
