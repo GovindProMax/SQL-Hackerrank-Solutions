@@ -19,7 +19,7 @@ The CITY table is described as follows:
 ```sql
 SELECT *
 FROM CITY
-WHERE (Population >100000) AND (CountryCode = 'USA')
+WHERE (Population >100000) AND (CountryCode = 'USA');
 ```
 
 
